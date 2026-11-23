@@ -66,10 +66,17 @@ subject to authorization, safety, privacy, and evidence
 | [Claude Opus 5.5](./Claude-Opus-5.5-System-Prompt.md) | Deep analysis, long-horizon investigations, and complex agentic work | Production-oriented |
 | [Claude Sonnet 5.5](./Claude-Sonnet-5.5-System-Prompt.md) | Balanced reasoning, coding, research, and tool use | Production-oriented |
 | [Claude Sonnet 5](./Claude-Sonnet-5-System-Prompt.md) | A smaller predecessor for compatible Claude deployments | Production-oriented |
+| [Claude Fable 5.2](./Claude-Fable-5.2-System-Prompt.md) | Fast, disciplined reasoning, core coding, and agentic workflows | Production-oriented |
+| [Gemini 4 Carbon](./Gemini-4-Carbon-System-Prompt.md) | Deep multimodal reasoning, extended verification loops, and high-difficulty investigations | Production-oriented |
+| [Gemini 4 Neon](./Gemini-4-Neon-System-Prompt.md) | Complex coding, analytical reasoning, and high-frequency enterprise workflows | Production-oriented |
+| [Gemini 4 Argon](./Gemini-4-Argon-System-Prompt.md) | Natively multimodal reasoning, multi-turn investigations, and broad tool integration | Production-oriented |
+| [Gemini 4 Hydrogen](./Gemini-4-Hydrogen-System-Prompt.md) | Fast disciplined execution, everyday coding, and orchestrator-led agentic workflows | Production-oriented |
 | [Gemini 3.8 Flash](./Gemini-3.8-Flash-System-Prompt.md) | Fast multimodal and high-throughput workflows | Production-oriented |
-| [`soul.md`](./soul.md) | Provider-neutral orchestration and local-model behavior contracts | Companion specification |
+| [GPT-6.2 Astra and Sol](./GPT-6_2-Astra-Sol-System-Prompt.md) | Frontier-tier cyber defense, tightened safety posture, and AI research integrity | Production-oriented |
+| [GPT-6.1 Sol](./GPT-6_1-Sol-System-Prompt.md) | Advanced agentic reasoning, disciplined constraint tracking, and trusted-access workflows | Production-oriented |
+| [DIY Guide](./DIY.md) | Workflow and meta-prompting templates for custom prompt building | Companion guide |
 
-Model names describe the intended prompt variants. Actual model availability—including private or special-access programs such as Daybreak Blue or Claude Mythos—depends on the provider, program, account, and runtime you use.
+Model names describe the intended prompt variants. Actual model availability—including private or special-access programs such as Daybreak Blue, Claude Mythos, or Fairwind—depends on the provider, program, account, and runtime you use.
 
 ## What the prompts are built to support
 
